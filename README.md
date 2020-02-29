@@ -29,11 +29,11 @@ You need to compile the source files using make before trying to execute the bin
 
 *The solver:*
 
->./solver/solver mazefile.txt
+```./solver/solver mazefile.txt```
 
 *The generator:*
 
->./generator/generator x_size y_size [perfect]
+```./generator/generator x_size y_size [perfect]```
 
 If the perfect flag is present, a perfect maze will be generated.
 
