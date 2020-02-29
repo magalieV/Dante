@@ -1,6 +1,6 @@
 # Dante Star
 
-90% passed
+>90% passed
 
 The goal of this project is to generate mazes, solve them, and print the solution
 
@@ -12,7 +12,9 @@ This is a school project and it may only work under a Unix environment- - -
 * The '*' represent the free space
 
 You can moove to a free space(up, down, right, left).
+
 The start position is the upper left-hand corne(0, 0)
+
 The finish position is the bottom right-hand corner.
 - - -
 ## The solution
